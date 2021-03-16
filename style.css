@@ -1,0 +1,48 @@
+body{
+	background-image: url(photo_2021-03-01_03-12-59.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	font-family: sans-serif;
+}
+ol{
+	display: flex;
+}
+ol li{
+	margin-right: 30px;
+}
+
+input{
+	cursor: pointer;
+	width: 100px;
+}
+
+.white{
+	cursor: pointer;
+	background: white;
+}
+
+.black{
+	cursor: pointer;
+	background: black;
+	color:white
+}
+
+.red{
+	cursor: pointer;
+	background: red;
+}
+
+.blue{
+	cursor: pointer;
+	background: blue;
+}
+
+.yellow{
+	cursor: pointer;
+	background: yellow;
+}
+
+.green{
+	cursor: pointer;
+	background: green;
+}
